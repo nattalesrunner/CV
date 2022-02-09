@@ -1,2 +1,2 @@
 # CV
-Git and Github
+Git and Github Homework
